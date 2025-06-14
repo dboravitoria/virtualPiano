@@ -5,7 +5,7 @@ Toque notas musicais usando o teclado do seu computador ou clicando nas teclas v
 
 ## 🔗 Acesse o projeto
 
-👉 [Clique aqui para ver o projeto rodando no GitHub Pages](https://seu-usuario.github.io/nome-do-repo)
+👉 [Clique aqui para ver o projeto rodando no GitHub Pages](https://dboravitoria.github.io/virtualPiano/)
 
 ## 🛠 Tecnologias utilizadas
 
